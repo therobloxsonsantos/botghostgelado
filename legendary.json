@@ -1,0 +1,24 @@
+[
+  {
+    "id": "isnolagiota001",
+    "name": "Isnol Agiota",
+    "descrition": "Cartela na mão, cueca no chão.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Lendário"
+  },
+  {
+    "id": "islandguy002",
+    "name": "Man from the Island",
+    "descrition": "Para alguns apenas uma lenda urbana, para outros o maior fornecedor de pizza com queijo.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Lendário"
+  },
+  {
+    "id": "jailsonmendes003",
+    "name": "O Pai de Familia",
+    "descrition": "O pai. O único capaz de dar o rabo e ser muito macho. Ainda há pessoas capazes de ouvir o urro masculo pronunciado como Delicia, e sentir o cheiro de seu relaxante suco de laranja.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Lendário"
+  }
+  // adicione quantos quiser (10k+ funciona perfeitamente)
+]

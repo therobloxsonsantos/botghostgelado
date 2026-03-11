@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rubinho001",
+    "name": "Rubinho Galactunes",
+    "descrition": "Sobrevivente da Faixa de Gaza Brasileira, o velho prometido da profeta de Etrom se refugia em recantos bahianos donde faltam peneiras e garrafas ausentam-se as rolhas.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Incomum"
+  },
+  {
+    "id": "renanplay002",
+    "name": "Deveria ter uma lei",
+    "descrition": "Lei do LDB nº 9.394 de 1996 garante que PODE ESTUDA!",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Incomum"
+  },
+  {
+    "id": "mclobisomem003",
+    "name": "Bluezão",
+    "descrition": "Toda poluição de um fetido pantano materializou-se em um singular Morador de Rua semelhante á um Ogro. Essa criatura se alimenta de Hate e PicPay Porra",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Incomum"
+  }
+  // adicione quantos quiser (10k+ funciona perfeitamente)
+]

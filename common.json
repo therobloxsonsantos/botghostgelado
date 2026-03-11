@@ -1,0 +1,24 @@
+[
+  {
+    "id": "isnol001",
+    "name": "Isnolbel Trollado",
+    "descrition": "Das profundezas das vielas de Kha'Sul abriria o jovem Isnol seu humilde restaurante, venha já e peça o seu",
+    "image": "https://i.imgur.com/X2ZZmKD.jpeg",
+    "rarity": "Comum"
+  },
+  {
+    "id": "meninocreeper002",
+    "name": "Creeper from Real Life",
+    "descrition": "Refugiado dos Laboratorios da Associação Paquistanesa de Adaptação e Evolução, assombra as margens da sociedade com sua malemolencia.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Comum"
+  },
+  {
+    "id": "mclobisomem003",
+    "name": "MC Lobisomem",
+    "descrition": "O profeta barrigudo cujo qual sempre está lelek lek, atrai femeas desavisadas para seu cativeiro, mas apenas nas noites de lua cheia.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Comum"
+  }
+  // adicione quantos quiser (10k+ funciona perfeitamente)
+]

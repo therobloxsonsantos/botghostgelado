@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pastorisnol001",
+    "name": "Pastor Isnol",
+    "descrition": "Afrovipers 12-16, ouvires o conselho do Santo Jonas, pois o próprio apostades na Baleia, e em certo acertastes",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Raro"
+  },
+  {
+    "id": "bluezaoraiz002",
+    "name": "Bluezão Prime",
+    "descrition": "Um bom homem cheio de sonhos prestes a ser corrompido pela crueldade humana. Suas refeições reciclaveis sempre serão memoraveis.",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Raro"
+  },
+  {
+    "id": "rodolfodealmeida003",
+    "name": "Rodolfo de Almeida Colmanetti",
+    "descrition": "I have a dream that one day this nation will rise up and make me a pornô actor",
+    "image": "https://i.imgur.com/Skjr57q.jpeg",
+    "rarity": "Raro"
+  }
+  // adicione quantos quiser (10k+ funciona perfeitamente)
+]
